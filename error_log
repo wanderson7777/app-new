@@ -1,0 +1,158 @@
+[21-Oct-2022 13:45:40 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:45:40 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:45:40 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:45:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:45:51 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:45:51 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:45:51 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:45:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:05 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:05 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:05 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:05 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:05 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:05 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:07 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:07 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:07 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:07 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:07 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:07 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:17 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:17 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:17 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:18 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:18 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:18 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:18 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:18 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:18 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:21 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sau09486_wtw'@'localhost' (using password: YES) in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 3
+[21-Oct-2022 13:51:21 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/sql_conection.php on line 4
+[21-Oct-2022 13:51:21 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 13:51:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 14:04:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 14:04:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 14:13:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 14:14:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 14:14:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
+[21-Oct-2022 14:24:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php:4
+Stack trace:
+#0 /home1/sleepe56/app.novidaderevelada.fun/index.php(3): include()
+#1 {main}
+  thrown in /home1/sleepe56/app.novidaderevelada.fun/app/app_vars.php on line 4
