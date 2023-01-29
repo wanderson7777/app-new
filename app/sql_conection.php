@@ -1,6 +1,6 @@
 <?php 
 
-$conn = mysqli_connect('localhost:3306','sleepe56_apt','estudio@pride');
-$db = mysqli_select_db($conn, 'sleepe56_apptiktok');
+$conn = mysqli_connect('playpremiado.chzsldh66wga.us-east-1.rds.amazonaws.com:3306','playpremiado','playpremiado');
+$db = mysqli_select_db($conn, 'bd_playpremiado');
 
 ?>
